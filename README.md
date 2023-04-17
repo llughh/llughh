@@ -14,8 +14,8 @@ Linkedin: https://www.linkedin.com/in/llugh
 * OpenWebinars  
 
 ## Languages
-* Spanish. 🇪🇸
-* English. 🇺🇸
+* Spanish. 
+* English. 
 
 <h3 align="left">Programming languages and Tools:</h3>
 <p align="left">

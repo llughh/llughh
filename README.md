@@ -2,8 +2,7 @@
 
 <h3 align="center">Im computer science student, also working as a IOS developer. Trying to learn something new each day.
 
-To contact me: vicendmg@gmail.com
-Linkedin: https://www.linkedin.com/in/llugh
+To contact me: llughprogramacion@gmail.com
  </h3>
 
 <!-- ## Portfolio: -->

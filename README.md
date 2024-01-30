@@ -8,7 +8,7 @@ To contact me: llughprogramacion@gmail.com
 <!-- ## Portfolio: -->
 
 ## Education:
-* Universidad Europea de Madrid 
+* Universidad Europea de Madrid - Computer engineering
 * Udemy courses 
 * OpenWebinars  
 

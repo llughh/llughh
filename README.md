@@ -52,4 +52,4 @@ To contact me: llughprogramacion@gmail.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-<!-- <img src="https://raw.githubusercontent.com/llughh/llughh/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/llughh/llughh/output/snake.svg" alt="Snake animation" />

@@ -1,6 +1,6 @@
   <h1 align="center"> 👋🏽 Hello, my name is Vicente David Mut, also known as llugh</h1>
 
-<h3 align="center">Im computer science student, also working as a Mobile Developer. Trying to learn something new each day.
+<h3 align="center">Im computer science student, also working as a Mobile Application Developer. Trying to learn something new each day.
 
 To contact me: llughprogramacion@gmail.com
  </h3>

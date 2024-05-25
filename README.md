@@ -1,6 +1,6 @@
   <h1 align="center"> 👋🏽 Hello, my name is Vicente David Mut, also known as llugh</h1>
 
-<h3 align="center">Im computer science student, also working as a Mobile Application Developer. Trying to learn something new each day.
+<h3 align="left">Im computer science student, also working as a Mobile Application Developer. Trying to learn something new each day.
 
 To contact me: llughprogramacion@gmail.com
  </h3>
@@ -14,7 +14,7 @@ To contact me: llughprogramacion@gmail.com
 <!-- ## Portfolio: -->
 
 # 💻 Education:
-* Universidad Europea de Madrid - Computer engineering
+* Universidad Europea de Madrid - Computer science
 * Udemy courses 
 * OpenWebinars  
 
@@ -22,7 +22,7 @@ To contact me: llughprogramacion@gmail.com
 * Spanish. 
 * English. 
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🖱 Programming language</h2>
 
 ###
 
@@ -48,10 +48,36 @@ To contact me: llughprogramacion@gmail.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+<h2 align="left">🛠 Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
 </div>
+
+###
 
 <img src="https://raw.githubusercontent.com/llughh/llughh/output/snake.svg" alt="Snake animation" />

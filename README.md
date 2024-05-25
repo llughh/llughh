@@ -2,8 +2,6 @@
 
 <h3 align="left">Im computer science student, also working as a Mobile Application Developer. Trying to learn something new each day.  </h3>
 
-<h3 align="center">To contact me: <a href="mailto:llughprogramacion@gmail.com">llughprogramacion@gmail.com</a></h3>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=llughh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <!--     <img src="https://streak-stats.demolab.com?user=llughh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
@@ -80,3 +78,6 @@
 ###
 
 <img src="https://raw.githubusercontent.com/llughh/llughh/output/snake.svg" alt="Snake animation" />
+
+<h3 align="center">To contact me: <a href="mailto:llughprogramacion@gmail.com">llughprogramacion@gmail.com</a></h3>
+

@@ -21,7 +21,7 @@
 * Spanish.
 * English. 
 
-<h2 align="left">🖱 Programming language</h2>
+<h2 align="left">🖱 Programming languages</h2>
 
 ###
 
